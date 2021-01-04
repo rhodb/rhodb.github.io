@@ -7,8 +7,7 @@ description: <a href="https://www.uchicago.edu/">The University of Chicago</a>. 
 profile:
   align: right
   image: website_pic.jpg
-  address: >
-    <p>Chicago, Illinois</p> 
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
