@@ -1,6 +1,6 @@
 ---
 layout: page
-title: agwe with Transformer encoders
+title: AGWE with Transformer encoders
 description: Investigating the performance of Transformer encoders when learning word embeddings from acoustic signal and character string
 img: /assets/img/200531_multiple_embeddings.png
 importance: 1
@@ -31,10 +31,8 @@ This is a project my partner [Rujual Bains](https://stat.uchicago.edu/people/pro
 The goal of this project was to try to improve upon acoustically grounded word embeddings, but it is instructive to first know what are *acoustic word embeddings*. Acoustic word embeddings are a finite-dimensional representation of an acoustic signal of arbitrary length; in other wrods, they are a mapping of a sequence of acoustic frames to a vector. This idea can be seen in the photo below. Acoustic word embeddings are a tool gaining traction in automatic speech recognition (ASR), which is the task of recognizing a sequence of words in a language given the acoustic signal (the audio / speech itself), because of the potential increase in simplicity and efficiency they offer when compared to doing ASR with sub-word representations. They also offer interesting prospects for the representation of distance between acoustic signals, which is interesting for spoken term detection tasks. 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-md-center">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/200531_multiple_embeddings.png' | relative_url }}" alt="" title="example image"/>
-    </div>
 </div>
 <div class="caption">
     An example of two acoustic signals (i.e. sequence of frames; i.e. samples of speech) being mapped to a point (vector) in a three-dimensional space. Typically, we use spaces of dimension much greater than three, but the idea is the same.
