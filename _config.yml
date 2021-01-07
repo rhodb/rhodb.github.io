@@ -61,7 +61,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: rhodb  # your blog must have a name for it to show up in the nav bar
+blog_name: Let's see where this goes...  # your blog must have a name for it to show up in the nav bar
 blog_description: A place for me to share some more informal thoughts, ideas and projects.
 permalink: /blog/:year/:title/
 
