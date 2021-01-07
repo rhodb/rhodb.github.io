@@ -52,10 +52,8 @@ The goal of this project was to try to improve upon acoustically grounded word e
 There are several ways you can imbue word embeddings with acoustic information. The strategy [Rujual](https://stat.uchicago.edu/people/profile/rujual-singh-bains/){:target="\_blank"} and I used was based on one that our professor [Karen Livescu](https://ttic.uchicago.edu/~klivescu/){:target="\_blank"} and a few of her students, mainly [Shane Settle](https://github.com/shane-settle){:target="\_blank"} and [Wanjia He](https://www.linkedin.com/in/wanjia-he-435004a5){:target="\_blank"}, worked on. A couple of great papers for more background are by [Settle et al.](https://arxiv.org/pdf/1903.12306.pdf){:target="\_blank"} and [He et al.](https://arxiv.org/pdf/1611.04496.pdf){:target="\_blank"}. We had a multi-view setup like the work just referenced: we used information from the sequence of characters in the word itself (as spelling isn't entirely arbitrary when it comes to acoustics) and information from a spoken example of that word (this signal obviously full of acoustic information). The goal was to learn a set of vectors where written words which sounded the same were closer to each other. Distance was measured by cosine similarity (which in our case is the angle between the two vectors). A more detailed version of the second image above, which shows the multi-view framework which we modified, can be found below.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-md-center">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/200531_multiview_setup.png' | relative_url }}" alt="" title="example image"/>
-    </div>
 </div>
 <div class="caption">
     The multi-view acoustic word embedding framework which we modified.
@@ -71,7 +69,7 @@ Pretraining (semantic + syntactic) word embeddings with Transformers has gained 
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/200531_multiview_transformer.png' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/transformers5.JPG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/transformer5.JPG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -83,10 +81,8 @@ Pretraining (semantic + syntactic) word embeddings with Transformers has gained 
 
 We unfortunately didn't improve upon the previous approach (based on average precision), but we did do better than some other approaches. The acoustic view results pertain to just the acoustic word embeddings learned in the multi-view setup, and the cross-view results reference the joint embeddings. Few people have considered the multi-view approach, so that is why there are fewer points of comparison in the second table. Our approach did much better learning acoustic word embeddings than it did acoustically grounded word embeddings.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+<div class="row justify-content-lg-center">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/210107_multiview-transformer-encoder-results.png' | relative_url }}" alt="" title="example image"/>
-    </div>
 </div>
 <div class="caption">
     Results from our project.
