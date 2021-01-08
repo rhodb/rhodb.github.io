@@ -282,6 +282,8 @@ footer.sticky-bottom {
   .grid-item {
     width: 250px;
     margin-bottom: 10px;
+    color: var(--global-text-color);
+    background-color: var(--global-bg-color);
     a {
       color: var(--global-text-color);
       background-color: var(--global-bg-color);
