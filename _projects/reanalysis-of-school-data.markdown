@@ -60,7 +60,7 @@ I used a different model to analyze the persistence data. The authors did a grea
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/rawcounts-bycondition-corrected.png' | relative_url }}" alt="" title="example image"/>
 </div>
 <div class="caption">
-    The scheme for how the researchers took their persistence measurements on the students.
+    Histogram which gives an idea of what the data looks like separated by condition.
 </div>
 
 The decreasing trend of students who played zero to five trials and then the increase/accumulation of the number of students who played six additional trials suggest we need to account for censoring in the model. I did this in my reanalysis. The histogram does suggest there may be some effect, especially at the accumulation point of trial 6, but this may be due to random variation. I'll comment on this briefly below. The other points where I differed in my analysis were when it came to the measurements of the teachers' language. I think the authors did not include some important linguistic structure in their analysis, such as normalizing by the length of a teacher's or by noting the exclusivity of some of their categories. This I won't go into much detail, but you can see in the <a href= "{{ '/assets/pdf/201209_finalreport_RhodesBrandon.pdf' | relative_url }}">final report</a>.
