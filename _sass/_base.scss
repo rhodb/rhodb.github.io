@@ -279,6 +279,8 @@ footer.sticky-bottom {
 // Projects
 
 .projects {
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
   .grid-item {
     width: 250px;
     margin-bottom: 10px;
