@@ -2,6 +2,7 @@
 layout: page
 title: Rhythm in speech
 description: I wrote some code to get the amplitude envelope of utterances.
+github: https://github.com/rhodb/rhythm
 importance: 6
 ---
 
