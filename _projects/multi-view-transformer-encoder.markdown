@@ -1,14 +1,14 @@
 ---
 layout: page
 title: AGWE with Transformer encoders
-description: Investigating the performance of Transformer encoders when learning word embeddings from acoustic signal and character string
+description: Investigating the performance of Transformer encoders when learning word embeddings from acoustic signal and character string.
 img: /assets/img/200531_multiple_embeddings.png
 importance: 2
 ---
 
 # Overview
 
-This is a project my partner [Rujual Bains](https://stat.uchicago.edu/people/profile/rujual-singh-bains/){:target="\_blank"} and I did for our Speech Technologies class with [Karen Livescu](https://ttic.uchicago.edu/~klivescu/){:target="\_blank"} (TTIC 31190). We tried to improve upon the quality of acoustically grounded word embeddings (agwe) obtained from a multi-view setup (acoustic and character) by using Transformer encoders instead of bidirectional LSTMs for each view. These three images can summarize the concept of the project. I will go into more detail about each below.
+This is a project my partner [Rujual Bains](https://stat.uchicago.edu/people/profile/rujual-singh-bains/){:target="\_blank"} and I did for our Speech Technologies class with Professor [Karen Livescu](https://ttic.uchicago.edu/~klivescu/){:target="\_blank"} (TTIC 31190). We tried to improve upon the quality of acoustically grounded word embeddings (agwe) obtained from a multi-view setup (acoustic and character) by using Transformer encoders instead of bidirectional LSTMs for each view. These three images can summarize the concept of the project. I will go into more detail about each below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -90,4 +90,4 @@ We unfortunately didn't improve upon the previous approach (based on average pre
 
 # For more information
 
-Please feel free to reach out to me if you have any questions regarding the project! You can check out the code at my [repository](https://github.com/rhodb/agwe_transformer), and you can check out the paper <a href= "{{ '/assets/pdf/200612_finalreport_multiview_transformer_encoder.pdf' | relative_url }}">here</a>.
+Please feel free to reach out to me if you have any questions regarding the project! You can check out the code at my [repository](https://github.com/rhodb/agwe_transformer){:target="\_blank"}, and you can check out the paper <a href= "{{ '/assets/pdf/200612_finalreport_multiview_transformer_encoder.pdf' | relative_url }}">here</a>.
