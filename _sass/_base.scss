@@ -284,7 +284,7 @@ footer.sticky-bottom {
     width: 250px;
     margin-bottom: 10px;
     a {
-      color: black;
+      color: var(--global-footer-link-color);
       text-decoration: none;
       &:hover {
         color: var(--global-theme-color);
@@ -295,9 +295,10 @@ footer.sticky-bottom {
     img {
       width: 100%;
     }
-    color: var(--global-text-color);
-    background-color: var(--global-bg-color);
-  }  
+    p {
+      color: var(--global-text-color);
+    }
+  }
 }
 
 
