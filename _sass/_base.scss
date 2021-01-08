@@ -4,7 +4,7 @@
 
 // Typography
 
-p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
+p, h1, h2, h3, h4, h5, h6, em, div, span, strong, i {
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 }
@@ -294,6 +294,9 @@ footer.sticky-bottom {
   .card {
     img {
       width: 100%;
+    }
+    h2 {
+      color: var(--global-footer-link-color);
     }
     p {
       color: var(--global-text-color);
