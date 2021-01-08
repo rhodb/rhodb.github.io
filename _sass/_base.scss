@@ -203,7 +203,7 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid var(--global-footer-text-color);
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
@@ -213,7 +213,7 @@ footer.sticky-bottom {
 // Blog
 
 .header-bar {
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: 1px solid var(--global-footer-text-color);
   text-align: center;
   padding-top: 2rem;
   padding-bottom: 5rem;
@@ -228,7 +228,7 @@ footer.sticky-bottom {
   margin-bottom: 40px;
   padding: 0;
   li {
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid var(--global-footer-text-color);
     list-style: none;
     padding-top: 2rem;
     padding-bottom: 2rem;
@@ -313,8 +313,8 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: $grey-color-light;
-    border-top: 1px solid $grey-color-light;
+    color: var(--global-footer-text-color);
+    border-top: 1px solid var(--global-footer-text-color);
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
