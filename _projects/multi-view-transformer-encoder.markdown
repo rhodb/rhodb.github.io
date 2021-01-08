@@ -3,7 +3,7 @@ layout: page
 title: AGWE with Transformer encoders
 description: Investigating the performance of Transformer encoders when learning word embeddings from acoustic signal and character string
 img: /assets/img/200531_multiple_embeddings.png
-importance: 1
+importance: 2
 ---
 
 # Overview
