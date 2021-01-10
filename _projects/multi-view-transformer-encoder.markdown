@@ -23,7 +23,7 @@ This is a project my partner [Rujual Bains](https://stat.uchicago.edu/people/pro
     </div>
 </div>
 <div class="caption">
-    First image: idea of acoustic word embeddings. Second image: the framework which we modified. Third image: our changes to the frame work (replacing BiLSTMs with Transformer encoders.)
+    Left-most image: idea of acoustic word embeddings. Middle image: the framework which we modified. Right-most image: our changes to the frame work (replacing BiLSTMs with Transformer encoders.)
 </div>
 
 
@@ -72,7 +72,7 @@ Pretraining (semantic + syntactic) word embeddings with Transformers has gained 
     </div>
 </div>
 <div class="caption">
-    First image: the modifications we made to the existing framework. Second image: the Transformer encoder itself.
+    Left image: the modifications we made to the existing framework. Right image: the Transformer encoder itself.
 </div>
 
 
