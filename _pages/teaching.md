@@ -9,7 +9,7 @@ nav: true
 ## Lecturer
 ### LING 20001: Introduction to Linguistics (Spring 2020)
 
-This course is the first core course for the linguistics major at the University of Chicago. I taught one of two sections during the Spring 2020 quarter. I split lecturing duties with [Kathryn Montemurro](https://www.linkedin/in/kathryn-montemurro-838b7b73), who taught the other section. I taught the sections on acoustics, articulatory phonetics, syntax, semantics and pragmatics. You can find the materials on the [project page](https://rhodb.github.io/projects/teaching-intro) I have for this course. I was responsible for every aspect of my section: asynchronous lectures three times a week; synchronous class periods three times a week; office hours twice a week; creating exercises and solutions; creating homeworks and solutions as well as grading them (biweekly); creating and grading exams; and fielding questions over email. 
+This course is the first core course for the linguistics major at the University of Chicago. I taught one of two sections during the Spring 2020 quarter. I split lecturing duties with [Kathryn Montemurro](https://www.linkedin/in/kathryn-montemurro-838b7b73), who taught the other section. I taught the sections on acoustics, articulatory phonetics, syntax, semantics and pragmatics. You can find the materials on the [project page](https://rhodb.github.io/projects/teaching-intro) I have for this course. I was responsible for every aspect of my section: asynchronous lectures three times a week; synchronous class periods three times a week; office hours twice a week; creating exercises and solutions; creating homeworks and solutions as well as grading them (every other week); creating and grading exams; and fielding questions over email. 
 
 * Students: 17 in my section
 * Teaching assistant: N/A
@@ -21,7 +21,7 @@ This course is the first core course for the linguistics major at the University
 ## Teaching Assistant
 ### LING 20001: Introduction to Linguistics (Autumn 2017, Winter 2019)
 
-As a teaching assistant, I was responsible for doing a one-hour discussion section once a week, hosted office hours once-twice a week, graded homeworks and fielded many questions via email.
+As a teaching assistant, I was responsible for doing a one-hour discussion section once a week, hosted office hours once-twice a week, graded homeworks (weekly / every other week) and fielded many questions via email.
 
 * Students: ~20 each time
 * Teaching assistant: N/A
@@ -35,7 +35,7 @@ As a teaching assistant, I was responsible for doing a one-hour discussion secti
 
 ### LING 20101: Introduction to Phonetics and Phonology (Autumn 2018)
 
-This is typically the first core course students take after they have taken Introduction to Linguistics. I was responsible for the following: leading a one-hour discussion section once a week; hosting office hours once-twice a week; grading homeworks (biweekly) and quizzes (every class); and fielding many questions via email. I was the only teaching assistant for this class.
+This is typically the first core course students take after they have taken Introduction to Linguistics. I was responsible for the following: leading a one-hour discussion section once a week; hosting office hours once-twice a week; grading homeworks (every other week) and quizzes (almost every class); and fielding many questions via email. I was the only teaching assistant for this class.
 
 * Students: 44
 * [Materials and more information](https://rhodb.github.io/projects/ta-phoneticsphonology)

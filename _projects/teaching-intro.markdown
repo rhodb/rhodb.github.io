@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Lecturing Introduction to Linguistics
+title: Teaching Introduction to Linguistics
 description: A page with materials I developed for the course Introduction to Linguistics (LING 20001) I taught at the University of Chicago.
-importance: 7
+importance: 3
 ---
 
 ## Overview of the class
 
-I was fortunate to have the opportunity to teach the first core class for the linguistics major at the University of Chicago. I had an excellent group of students who made it so much easier and more fun to teach the course, given that this was right after the coronavirus started spreading in the United States and we had to do this course completely remote. I taught this course with [Kathryn Montemurro](https://www.linkedin/in/kathryn-montemurro-838b7b73) who is an awesome linguist who focuses on sign languages (and who matriculated to the university the same year I did!). We tried the 'flipped classroom' format: we made asynchronous lecture videos, and then we hosted synchronous classes where the students had the opportunity to somewhat direct the trajectory of that module with their questions and discussion. Since it was after all an introductory course, Kat and I often prepared materials for each of the synchronous sessions to help guide the students and encourage them to go deeper into some material we considered important or interesting if they didn't have any questions and just wanted more practice. I taught the sections on acoustics, articulatory phonetics, syntax, semantics and pragmatics. You can find the materials on a [project page](https://rhodb.github.io/projects/teaching-intro) I have for this course. I was responsible for every aspect of my section: asynchronous lectures three times a week; synchronous class periods three times a week; office hours twice a week; creating exercises and solutions; creating homeworks and solutions as well as grading them (biweekly); creating and grading exams; and fielding questions over email. 
+I was fortunate to have the opportunity to teach the first core class for the linguistics major at the University of Chicago. I had an excellent group of students who made it so much easier and more fun to teach the course, given that this was right after the coronavirus started spreading in the United States and we had to do this course completely remote. I taught this course with [Kathryn Montemurro](https://www.linkedin/in/kathryn-montemurro-838b7b73) who is an awesome linguist who focuses on sign languages (and who matriculated to the university the same year I did!). We tried the 'flipped classroom' format: we made asynchronous lecture videos, and then we hosted synchronous classes where the students had the opportunity to somewhat direct the trajectory of that module with their questions and discussion. Since it was after all an introductory course, Kat and I often prepared materials for each of the synchronous sessions to help guide the students and encourage them to go deeper into some material we considered important or interesting if they didn't have any questions and just wanted more practice. I taught the sections on acoustics, articulatory phonetics, syntax, semantics and pragmatics. I was responsible for every aspect of my section: asynchronous lectures three times a week; synchronous class periods three times a week; office hours twice a week; creating exercises and solutions; creating homeworks and solutions as well as grading them (biweekly); creating and grading exams; and fielding questions over email. 
 
 ## Course goals
 
@@ -23,6 +23,11 @@ In the lectures I prepared, I really wanted to highlight the deeper structure in
 ## Materials
 
 Here, I'll present the materials that I developed for the course. Other materials were developed by Kathryn Montemurro. Remember these videos were asynchronous, so we tried to have two-three short videos (10-15mins) with slides for each meeting. In my slides, anything in grey means that I thought it was worth mentioning but not something I took the time to cover in the course. Major shout outs to [Jeffrey Geiger](http://www.jeffreypgeiger.com/chronological.html) and [Anqi Zhang](https://linkedin/in/anqi-zhang-linguistics): at certain points in phonetics and semantics, I followed some of their materials pretty closely. Thank you two for providing such great resources!
+
+### Syllabus and course evaluations
+
+* <a href= "{{ '/assets/pdf/teaching/200406_SyllabusRhodes.pdf' | relative_url }}">Syllabus</a>
+* <a href= "{{ '/assets/pdf/210108_course-evaluation.pdf' | relative_url }}">Evaluations</a>
 
 ### Grammar
 
