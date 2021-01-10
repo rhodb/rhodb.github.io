@@ -29,7 +29,7 @@ A major part of this course was the midterm project. For this project, students 
 
 I first created a set of stimuli for them to get vowel and stop consonant measurements. It was a <a href= "{{ '/assets/pdf/LING20101/181019_stimuli.pdf' | relative_url }}">slide show</a> which consisted of the the frame *I said a [word-of-interest]*, which served to elicit running pronunication of the words-of-interest. (I only told them to focus on the word-initial consonants; otherwise, I would have suggested the frame *I said a [word-of-interest] again*.)
 
-<div class="row justify-content-md-center">
+<div class="row justify-content-sm-center">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/210110_ling20101-book.png' | relative_url }}" alt="" title="example image"/>
 </div>
 <div class="caption">
