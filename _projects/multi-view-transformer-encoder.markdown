@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AGWE with Transformer encoders
-description: Investigating the performance of Transformer encoders when learning word embeddings from acoustic signal and character string.
+description: Investigating the performance of Transformer encoders when learning acoustically grounded word embeddings (AGWE) from an acoustic signal and a character string for that signal.
 img: /assets/img/200531_multiple_embeddings.png
 github: https://github.com/rhodb/agwe_transformer
 importance: 2
