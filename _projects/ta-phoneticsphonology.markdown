@@ -33,7 +33,7 @@ I first created a set of stimuli for them to get vowel and stop consonant measur
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/210110_ling20101-diphthongs.png' | relative_url }}" alt="" title="example image"/>
 </div>
 <div class="caption">
-    An example plot from the `Rphon` package, showing the diphthongs for the students in the class along with the average trajectory. I love the colors!
+    An example plot showing the diphthongs for the students in the class along with the average trajectory. I love the colors!
 </div>
 
 Then, with these repeated measurements I gave them the framework for, I found a Praat script which automatically extracts formant information from an annotated file, and I provided them with <a href= "{{ '/assets/pdf/LING20101/181025_discussion4-1.pdf' | relative_url }}">instructions</a> on how to use it. You can find the script [here](http://www.helsinki.fi/~lennes/praat-scripts/). It turned out to be a little more difficult than I anticipated for the students to run the script, but if I remember correctly, the majority of the students ended up using it and reaping the benefits. You can also find the script in my [repository](https://github.com/rhodb/ling20101-midterm) for this project: it is called `vowelextract`.
