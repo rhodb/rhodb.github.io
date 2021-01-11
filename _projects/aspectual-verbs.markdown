@@ -12,30 +12,43 @@ importance: 10
 
 [Thomas Grano](https://sites.google.com/site/tgrano/) and I worked on a project looking at the syntax-semantics interface of aspectual verbs --- e.g. begin, finish, continue, etc. The interesting thing about these verbs is that they can occur in a range of syntactic/semantic contexts, which also makes the formal analysis of them tricky; for example, we have the following:
 
-a) It ***began*** {raining / to rain}. [RAISING]{style="float:right"}
-b) The war ***began***. [INTRANSITIVE]{style="float:right"}
-c) John carefully ***began*** {opening / to open} the door. [CONTROL]{style="float:right"}
-d) John ***began*** the book. ['COERCION']{style="float:right"}
-e) The general ***began*** the war. [TRANSITIVE AGENTIVE]{style="float:right"}
-f) 'A' ***begins*** the alphabet. [TRANSITIVE NON-AGENTIVE]{style="float:right"}
+a) It ***began*** {raining / to rain}. <div align="right">RAISING</div>
+
+b) The war ***began***. <div align="right">INTRANSITIVE</div>
+
+c) John carefully ***began*** {opening / to open} the door. <div align="right">CONTROL</div>
+
+d) John ***began*** the book. <div align="right">'COERCION'</div>
+
+e) The general ***began*** the war. <div align="right">TRANSITIVE AGENTIVE</div>
+
+f) 'A' ***begins*** the alphabet. <div align="right">TRANSITIVE NON-AGENTIVE</div>
 
 
 ## Brief notes on the analysis
 
 The upshot of the analysis was that the external argument was 'severed' from the verb, which led to the external arguments being dealt with differently depending on the Aspect projection and whether the external argument was introduced by little *v*. Upon further reflection, this is a pretty logical move to make working within the dominant framework for syntax and semantics. One of the more interesting things we found is that there is a so-called '*with*-alternation' when it comes to these aspectual verbs: only non-agentive sentences be paraphrased using a prepositional phrase headed by *with*. This observation inspired the analysis proposed.
 
-### *with*-alternation okay --- non-agentive
+#### Examples where the *with*-alternation is okay --- non-agentive
 
 a) The trail ***begins*** with a fountain.
-b) The banquet ***began*** with a prayer.
-c) The day ***ends*** with(/at) midnight.
-d) The alphabet ***begins*** with 'A'.
-e) The row ***finished*** with a little porcelain poit.
 
-### *with*-alternation not okay / not as good --- agentive
+b) The banquet ***began*** with a prayer.
+
+c) The day ***ends*** with(/at) midnight.
+
+d) The alphabet ***begins*** with 'A'.
+
+e) The row ***finished*** with a little porcelain pot.
+
+
+
+#### Examples where the *with*-alternation is not okay / not as good --- agentive
 
 a) Reading the book ***began*** with John.
+
 b) The book ***began*** with John.
+
 c) The war ***began*** with the general.
 
 
