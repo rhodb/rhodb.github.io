@@ -12,17 +12,17 @@ importance: 10
 
 [Thomas Grano](https://sites.google.com/site/tgrano/) and I worked on a project looking at the syntax-semantics interface of aspectual verbs --- e.g. begin, finish, continue, etc. The interesting thing about these verbs is that they can occur in a range of syntactic/semantic contexts, which also makes the formal analysis of them tricky; for example, we have the following:
 
-a) It ***began*** {raining / to rain}. \hfill RAISING
+a) It ***began*** {raining / to rain}.                              RAISING
 
-b) The war ***began***. \hfill INTRANSITIVE
+b) The war ***began***.                                             INTRANSITIVE
 
-c) John carefully ***began*** {opening / to open} the door. \hfill CONTROL
+c) John carefully ***began*** {opening / to open} the door.         CONTROL
 
-d) John ***began*** the book. \hfill 'COERCION'
+d) John ***began*** the book.                                       'COERCION'
 
-e) The general ***began*** the war. \hfill TRANSITIVE AGENTIVE
+e) The general ***began*** the war.                                 TRANSITIVE AGENTIVE
 
-f) 'A' ***begins*** the alphabet. \hfill TRANSITIVE NON-AGENTIVE
+f) 'A' ***begins*** the alphabet.                                   TRANSITIVE NON-AGENTIVE
 
 
 ## Brief notes on the analysis
