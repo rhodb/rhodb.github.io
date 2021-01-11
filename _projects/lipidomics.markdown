@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lipidomics of midbrain, brainstem thalamus and cerebellum for endocannabinoids and related n-acyl amides
+title: Lipidomics
 description: My very first experience in research with Heather Bradshaw at Indiana University. I helped her process and analyze the data from a large lipidomics project, where she was looking at levels of different lipids in several areas of the brain using an acute model peripheral inflammation.
 img: /assets/img/210111_massspec-results-1.png
 importance: 10
@@ -34,7 +34,7 @@ Typical plots from mass spectrometry look like the ones below. On the left, you 
     <div class="col-sm-6 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/210111_massspec-results-1.png' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-6mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/210111_massspec-results-2.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
