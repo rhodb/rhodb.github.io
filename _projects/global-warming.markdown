@@ -2,7 +2,7 @@
 layout: page
 title: Global warming project
 description: I analyzed the CET data to investigate the presence of global warming.
-importance: 5
+importance: 8
 ---
 
 ## Brief description
