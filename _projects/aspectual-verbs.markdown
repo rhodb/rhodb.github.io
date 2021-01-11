@@ -6,7 +6,7 @@ img: /assets/img/210110_aspectual-verbs.png
 importance: 10
 ---
 
-***Disclaimer***: This description will be a bit brief and technical with regard to the linguistics. Although I love [Tom](https://sites.google.com/site/tgrano/), I didn't work on this project for too long. This was a small summer project that [Tom](https://sites.google.com/site/tgrano/) gave me the opportunity to work on right before going to graduate school at the University of Chicago. I was responsible for collecting and processing data from a few languages: I think I focused on English, Spanish, Italian and Arabic. At the time, I was really interested in syntax and semantics (mostly because of how much fun [Tom](https://sites.google.com/site/tgrano/) made it!), but as you can see from the rest of my site, my interests have moved away from these fields.
+***Disclaimer***: This description will be a bit brief and technical with regard to the linguistics. I didn't work on this project for too long, as it was a small summer project that [Tom](https://sites.google.com/site/tgrano/) gave me the opportunity to work on right before going to graduate school at the University of Chicago. I was responsible for collecting and processing data from a few languages: I think I focused on English, Spanish, Italian and Arabic. At the time, I was really interested in syntax and semantics (mostly because of how much fun [Tom](https://sites.google.com/site/tgrano/) made it!), but as you can see from the rest of my site, my interests have moved away from these fields.
 
 ## Overview
 
