@@ -3,7 +3,7 @@ layout: page
 title: 4D ultrasound imaging of /l/ and /r/ in American English
 description: A study I helped conduct in Steven Lulich's lab of Speech and Hearing Sciences at Indiana University. The work was joint with Kelly Berkson and Ken de Jong in the linguistics department. We looked at production of /l/ and /r/ in American English with time aligned 3D ultrasound.
 img: /assets/img/4d1.png
-importance: 4
+importance: 7
 ---
 
 ## Overview
