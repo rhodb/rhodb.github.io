@@ -68,7 +68,7 @@ You can also look at the dialectness factors of classes of sounds which are simi
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/210111_dialect-stop-distances.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/210111_dialect-stop-distance.png' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/210111_dialect-embeddings.png' | relative_url }}" alt="" title="example image"/>
@@ -79,7 +79,7 @@ You can also look at the dialectness factors of classes of sounds which are simi
 </div>
 
 
-## Upshort
+## Upshot
 
 At the end of this work, I basically developed a notion of phonemic distance, which was pretty interesting. This can be extended to more general situations, but it is tricky because my work depended on there being a standard, a point which we fix so that we can make comparisons. There is not really a clear point like this when you are doing comparisons between different languages. However, this project changed pretty profoundly my philosophy on what actually is a dialect and what actually is a language. The body of linguistic information for a given language or dialect can be mapped to a point in some high-dimensional linguistic space, and what we usually refer to as a 'language' is really just a limiting point in this space (borrowing language from topology, if I may), determined by cultural-historical forces, and dialects are just points within the a certain sized neighborhood of this limiting point. 
 
