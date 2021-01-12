@@ -4,7 +4,7 @@ title: Teaching assistant for Introduction to Phonetics and Phonology
 description: A page with materials I developed for the course Introduction to Phonetics and Phonology (LING 20101) at the University of Chicago.
 img: /assets/img/210110_ling20101-diphthongs.png
 github: https://github.com/rhodb/ling20101-midterm
-importance: 5
+importance: 7
 ---
 
 ## Overview of the class
