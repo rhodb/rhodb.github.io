@@ -132,7 +132,7 @@ I loved teaching this module. This has a certain nostalgia for me, as it was aft
 * <a href= "{{ '/assets/pdf/teaching/200513_meaning2.2-1.pdf' | relative_url }}">Speaker cooperation and Grice's Maxims</a>
 * <a href= "{{ '/assets/pdf/teaching/200515_meaning3.1.pdf' | relative_url }}">Gricean reasoning and scalar implicatures</a>
 * <a href= "{{ '/assets/pdf/teaching/200515_meaning3.2.pdf' | relative_url }}">Truth conditions and compositionality</a>
-* <a href= "{{ '/assets/pdf/teaching/200518_meaning4.1.pdf' | relative_url }}">Model-theoretic cemantics</a>
+* <a href= "{{ '/assets/pdf/teaching/200518_meaning4.1.pdf' | relative_url }}">Model-theoretic semantics</a>
 * <a href= "{{ '/assets/pdf/teaching/200518_meaning4.2.pdf' | relative_url }}">Simple predication, definite descriptions and transitive verbs</a>
 * <a href= "{{ '/assets/pdf/teaching/200520_meaning5.1.pdf' | relative_url }}">Quantifiers</a>
 * <a href= "{{ '/assets/pdf/teaching/200520_meaning5.2.pdf' | relative_url }}">Toy models</a>
