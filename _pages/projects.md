@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Projects I've worked on over the years. I will try to explain them in an intuitive way, rather than going far into technical details. I'll provide links to the papers which have the details, though.
+description: Projects I've worked on over the years. I will try to explain them in an intuitive way, rather than going far into technical details. I'll provide links to my papers, reports or presentations which have the details, though.
 nav: true
 ---
 

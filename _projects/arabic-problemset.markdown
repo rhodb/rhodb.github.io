@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Creation of problem set on Sudanese Colloquial Araic
+title: Creation of problem set on Sudanese Colloquial Arabic
 description: For one of my core classes in the PhD curriculum at the University of Chicago, I created a problem set for undergraduates based on data from Sudanese Colloquial Arabic.
 img: /assets/img/arabic-language.jpg
 importance: 10
@@ -8,7 +8,7 @@ importance: 10
 
 ## Overview
 
-In my Phonological Analysis 2 course, taught by Professor [John Goldsmith], we each created a problem set to give to a hypothetical group of undergraduate students (I'm sure [John](http://people.cs.uchicago.edu/~jagoldsm/) had this in mind, but I'm not sure if he knows that I've used parts of this problem set for *every* one of the classes I've been a teaching assistant for or taught). My project was on Sudanese Colloquial Arabic. We were tasked with curating a data set with several questions to lead the students through an analysis which would uncover a concept we found important. At the time I was just getting introduced to more formal ways of expressing theories, so you will see a heavy emphasis on basic set-theory; additionally, I had been (and *remain* to be) interested in ways to pare down on theory, as I often think that the heavy theoretical frameworks with which we work are often not relevant for reality (I was also pretty fresh off of reading Trubetskoy at this point, which I found to be very inspiring), and this lead to me constructing a problem set which focused on positing a minimal set of features to explain the alternations in the data. I'll briefly go over the problem set.
+In my Phonological Analysis 2 course, taught by Professor [John Goldsmith], we each created a problem set to give to a hypothetical group of undergraduate students (I'm sure [John](http://people.cs.uchicago.edu/~jagoldsm/) had this in mind, but I'm not sure if he knows that I've used parts of this problem set for *every* one of the classes I've been a teaching assistant for or have taught). My project was on Sudanese Colloquial Arabic. We were tasked with curating a data set with several questions to lead the students through an analysis which would uncover a concept we found important. At the time I was just getting introduced to more formal ways of expressing theories, so you will see a heavy emphasis on basic set-theory; additionally, I had been (and *remain* to be) interested in ways to pare down on theory, as I often think that the heavy theoretical frameworks with which we work are often not relevant for reality (I was also pretty fresh off of reading the work of Trubetzkoy and structuralists at this point, which I found to be very inspiring), and this lead to me constructing a problem set which focused on positing a minimal set of features to explain the alternations in the data. I'll briefly go over the problem set.
 
 ## Data
 
