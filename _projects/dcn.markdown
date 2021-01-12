@@ -6,10 +6,6 @@ img: /assets/img/210112_dcn-jointmodeling.png
 importance: 4
 ---
 
-190609_proposal-final
-
-190609_presentation
-
 ## Overview
 
 For my dissertation proposal at the University of Chicago, I worked on extending work done by [Goldsmith](http://people.cs.uchicago.edu/~jagoldsm/) and Larson in the 1990s on a neural network architecture they called a Dynamic Computational Network (DCN). This was a bunch of fun, as [John](http://people.cs.uchicago.edu/~jagoldsm/) was happy to be thinking about this problem again, and it was a way for me to think about how I could relate modern statistical and machine learning methods into a classical problem in linguistics and an previous, and promising, framework for that problem, DCNs. I haven't done much work since, as I've gone off in different directions for the dissertation, but this has always been in the back of my mind, waiting to be revisited. I believe this theory should really be developed, as it is a simple, yet very powerful, framework which does seem to actually set theory on a track towards neurological plausibility --- something I feel should be thought about more. This project page will definitely not cover everything in the proposal itself, but please feel free to look at the actual <a href= "{{ '/assets/pdf/190609_proposal-final.pdf' | relative_url }}">proposal</a> and <a href= "{{ '/assets/pdf/190609_presentation.pdf' | relative_url }}">presentation</a> I gave during my defense of it, which should help clarify points of uncertainty. [Jason Riggle](https://linguistics.uchicago.edu/jason-riggle) is the chair, and [John Goldsmith](190609_presentation) and [Diane Brentari](https://signlanguagelab.uchicago.edu/) are members on my dissertation committee. 
