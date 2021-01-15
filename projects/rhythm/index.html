@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Brandon  Rhodes | blank</title>
+<title>Brandon  Rhodes | Rhythm in speech</title>
 <meta name="description" content="A webpage for people to see what I'm about. If you have any questions about work or projects you see on here, please don't hesitate to reach out via email or LinkedIn.
 ">
 
@@ -29,7 +29,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/rhythm/">
 
 <!-- Theming-->
 
@@ -85,7 +85,7 @@
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               Blog
               
@@ -155,18 +155,30 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>Let's see where this goes...</h1>
-    <h2>A place for me to share some more informal thoughts, ideas and projects.</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Rhythm in speech</h1>
+    <p class="post-description">I wrote some code to get the amplitude envelope of utterances.</p>
+  </header>
 
+  <article>
+    <h2 id="brief-description">Brief description</h2>
 
-  <ul class="post-list">
-    
-  </ul>
+<p>This project will develop into more over time, but it is starting as just a small codebase for extracting amplitude envelopes for a speech utterance. You can think of the amplitude envelope as the tracing of the overarching structure of an acoustic signal. You can see this below in the images. The images in the second row are the envelopes.</p>
 
-  
+<div class="row justify-content-md-center">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/210107_amplitude-envelopes.png" alt="" title="example image" />
+</div>
+<div class="caption">
+    Images in the second row are the amplitude envelopes. Photo is taken from [here](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_Timbre.html){:target="\_blank"}. 
+</div>
 
+<p>The exact tracing of the upper amplitude envelope is presumably too rough for the study of rhythm, so in my code there is a parameter to smooth it out so that it captures less detail but more broad structure. Spoiler: as it turns out, I found a much easier / efficient way to do this using Praat, so I don’t use this code much anymore. I’ll try to clean up and post the code with the Praat script.</p>
+
+<h2 id="where-to-find-this-code">Where to find this code</h2>
+
+<p>You can find this code in my repository for it <a href="https://github.com/rhodb/rhythm" target="\_blank">here</a>.</p>
+
+  </article>
 
 </div>
 
